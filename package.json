@@ -1,0 +1,34 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "D:/programming/movie/roman847-JSFEPRESCHOOL/tic-tac-toe/node_modules/.bin/webpack --progress",
+    "start": "D:/programming/movie/roman847-JSFEPRESCHOOL/tic-tac-toe/node_modules/.bin/webpack-dev-server",
+    "compile:sass": "node-sass F:/programming/rsschool-cv/roman847-JSFEPRESCHOOL/portfolio/src/style/index.scss F:/programming/rsschool-cv/roman847-JSFEPRESCHOOL/portfolio/src/style/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/plugin-proposal-object-rest-spread": "^7.17.3",
+    "@babel/preset-env": "^7.16.11",
+    "animate.css": "^4.1.1",
+    "babel-loader": "^8.2.3",
+    "bootstrap": "^5.1.3",
+    "css-loader": "^6.6.0",
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.5.3",
+    "postcss-loader": "^6.2.1",
+    "sass": "^1.49.7",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  }
+}
