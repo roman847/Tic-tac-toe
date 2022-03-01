@@ -19,20 +19,22 @@ A famous game from childhood help you remember your school-days
 ##### Scenario.
 
 - There are 3 scenarios:
-  1. Two players
-  2. One player (play with cross)
-  3. One player (play with zero)
+  - Two players
+  - One player (play with cross)
+  - One player (play with zero)
 
 Default scenario is One player (play with cross). If you want to change scenario  
-you should click "Options" and change the number of player and your figure .
+you should click **"Options"** and change the number of player and your figure .
 
-![](1.png)
+!["Click on "Options""](1.png)
+!["Change scenario and your figure"](2.png)
 
-- Play game
-  If you want to start game you should click on "Start game".
-  If tou want to clean games winsow you should click on "Clear"
+#### Play game
 
-  ***
+- If you want to start game you should click on **"Start game"**.
+- If tou want to clean games window you should click on **"Clear"**
+
+---
 
 ### What has been used in the project:
 
