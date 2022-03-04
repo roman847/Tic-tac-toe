@@ -41,7 +41,7 @@ you should click **"Options"** and change the number of player and your figure .
 - _Html/Css_
 - _Sass/Scss_
 - _JavaScript (native)_
-- _Bootstarp_
-- _Animate.css_
+- _Bootstrap_
+- _Animate.css_ (animation-library)
 - _Webpack (Full project is built with Webpack)_
-- _Node.js v. 8.1.2_
+- _Node.js v. 16.13.2_
